@@ -3,7 +3,7 @@ Proxy Server Using Squid Service and E2 Guardian Package with MySar Report
 
 ## Notes
 
-A proxy server acts as a gateway between you and the internet. It is an intermediary server separating </b>
+A proxy server acts as a gateway between you and the internet. It is an intermediary server separating <b/>
 end users from the websites they browse.
 First, we must install SQUID SERVICE
   ➢ Because We cannot configure the Packages without squid services.
