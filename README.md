@@ -1,23 +1,31 @@
 # Proxy-Server
-Proxy Server Using Squid Service and E2 Guardian Package with MySar Report
+    Proxy Server Using Squid Service and E2 Guardian Package with MySar Report
+
+## What is it?
+    A proxy server acts as a gateway between you and the internet. It is an intermediary server separating </b>
+    end users from the websites they browse.
 
 ## Notes
 
-A proxy server acts as a gateway between you and the internet. It is an intermediary server separating <b/>
-end users from the websites they browse.
-First, we must install SQUID SERVICE
- - Because We cannot configure the Packages without squid services.
+First, we must install SQUID SERVICE. </b>
+
+- Because We cannot configure the Packages without squid services.
 For Proxy Packages
  - We can Use Packages like - e2 guardian or dans guardian.
  - e2 guardian only in Debian Version (UBUNTU) not in RPM.
 E2 GUARDIAN and DANSGUARDIAN USED FOR WEB CONTENT FILTERING
  - Filtering based on filetypes, download bandwidth, search patterns and much
-more.
-SQUID SERVICES USED FOR WEB PAGE FILTERING
+   more.
+
+SQUID SERVICES USED FOR WEB PAGE FILTERING. </b>
+
  - Using ACL, we can restrict and allow based on source, dst, domain and much
-more.
-MYSAR / SARG USED FOR REPORT SERVICES
+  more.
+
+MYSAR / SARG USED FOR REPORT SERVICES. </b>
+
  - IP based and USER based.
+
 To Verify
 Debian Base OS Centos
 ----------------------- -----------------------
