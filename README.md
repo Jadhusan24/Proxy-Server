@@ -26,10 +26,14 @@ MYSAR / SARG USED FOR REPORT SERVICES. </b>
 
  - IP based and USER based.
 
-To Verify
-Debian Base OS Centos
------------------------ -----------------------
- apt-cache search squid rpm -qi squid
-Configuring On
+#### To Verify
+Debian Base OS </b>
+apt-cache search </b>
+
+Centos</b>
+squid rpm -qi squid</b>
+
+
+#### Configuring On
 Ubuntu Version 20.10 in Virtual Machine Workstation 16 Pro.
 Network Bridged from Host pc to Ubuntu VM.
