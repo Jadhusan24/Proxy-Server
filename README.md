@@ -7,7 +7,7 @@
 
 ## Notes
 
-First, we must install SQUID SERVICE. </b>
+First, we must install SQUID SERVICE. <br/>
 
 - Because We cannot configure the Packages without squid services.
 For Proxy Packages
@@ -17,25 +17,25 @@ E2 GUARDIAN and DANSGUARDIAN USED FOR WEB CONTENT FILTERING
  - Filtering based on filetypes, download bandwidth, search patterns and much
    more.
 
-SQUID SERVICES USED FOR WEB PAGE FILTERING. </b>
+SQUID SERVICES USED FOR WEB PAGE FILTERING. <br/>
 
  - Using ACL, we can restrict and allow based on source, dst, domain and much
   more.
 
-MYSAR / SARG USED FOR REPORT SERVICES. </b>
+MYSAR / SARG USED FOR REPORT SERVICES. <br/>
 
  - IP based and USER based.
 
 ### To Verify
 
-Debian Base OS </b>
-apt-cache search </b>
+Debian Base OS <br/>
+apt-cache search <br/>
 
-Centos</b>
-squid rpm -qi squid</b>
+Centos<br/>
+squid rpm -qi squid<br/>
 
 
 ### Configuring On
 
-Ubuntu Version 20.10 in Virtual Machine Workstation 16 Pro.
+Ubuntu Version 20.10 in Virtual Machine Workstation 16 Pro. <br/>
 Network Bridged from Host pc to Ubuntu VM.
