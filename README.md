@@ -18,17 +18,17 @@ E2 GUARDIAN and DANSGUARDIAN USED FOR WEB CONTENT FILTERING
  - Filtering based on filetypes, download bandwidth, search patterns and much
    more.
 -----------------------------------
-### SQUID SERVICES USED FOR WEB PAGE FILTERING. <br/>
+#### SQUID SERVICES USED FOR WEB PAGE FILTERING. <br/>
 -----------------------------------
  - Using ACL, we can restrict and allow based on source, dst, domain and much
   more.
 -----------------------------------
-### MYSAR / SARG USED FOR REPORT SERVICES. <br/>
+#### MYSAR / SARG USED FOR REPORT SERVICES. <br/>
 -----------------------------------
  - IP based and USER based.
 
 -----------------------------------
-### To Verify
+#### To Verify
 -----------------------------------
 
     Debian Base OS <br/>
@@ -38,7 +38,7 @@ E2 GUARDIAN and DANSGUARDIAN USED FOR WEB CONTENT FILTERING
     squid rpm -qi squid<br/>
 
 -----------------------------------
-### Configuring On
+#### Configuring On
 -----------------------------------
 
     Ubuntu Version 20.10 in Virtual Machine Workstation 16 Pro. <br/>
