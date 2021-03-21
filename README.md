@@ -10,22 +10,25 @@
 -----------------------------------
 ### First, we must install SQUID SERVICE. <br/>
 -----------------------------------
-- Because We cannot configure the Packages without squid services.
-For Proxy Packages
- - We can Use Packages like - e2 guardian or dans guardian.
- - e2 guardian only in Debian Version (UBUNTU) not in RPM.
-E2 GUARDIAN and DANSGUARDIAN USED FOR WEB CONTENT FILTERING
- - Filtering based on filetypes, download bandwidth, search patterns and much
-   more.
+
+    Because We cannot configure the Packages without squid services. 
+    For Proxy Packages
+        - We can Use Packages like - e2 guardian or dans guardian.
+        - e2 guardian only in Debian Version (UBUNTU) not in RPM.
+    E2 GUARDIAN and DANSGUARDIAN USED FOR WEB CONTENT FILTERING
+        - Filtering based on filetypes, download bandwidth, search patterns and much more.
+
 -----------------------------------
 #### SQUID SERVICES USED FOR WEB PAGE FILTERING. <br/>
 -----------------------------------
- - Using ACL, we can restrict and allow based on source, dst, domain and much
-  more.
+
+    - Using ACL, we can restrict and allow based on source, dst, domain and much more.
+
 -----------------------------------
 #### MYSAR / SARG USED FOR REPORT SERVICES. <br/>
 -----------------------------------
- - IP based and USER based.
+
+    - IP based and USER based.
 
 -----------------------------------
 #### To Verify
