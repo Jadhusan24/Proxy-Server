@@ -34,12 +34,12 @@
 #### To Verify
 -----------------------------------
 
-    Debian Base OS <br/>
-    apt-cache search squid <br/>
-    apt-cache search E2Guardian <br/>
+    Debian Base OS 
+    apt-cache search squid 
+    apt-cache search E2Guardian 
     
-    Centos<br/>
-    squid rpm -qi squid <br/>
+    Centos
+    squid rpm -qi squid 
     squid rpm -qi E2Guardian 
 -----------------------------------
 #### Configuring On
