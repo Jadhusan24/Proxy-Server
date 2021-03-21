@@ -1,11 +1,11 @@
 # Proxy-Server
     Proxy Server Using Squid Service and E2 Guardian Package with MySar Report
 
-# [REFERENCES ?](https://en.wikipedia.org/wiki/Proxy_server)
+## [REFERENCES ?](https://en.wikipedia.org/wiki/Proxy_server)
     A proxy server acts as a gateway between you and the internet. It is an intermediary server separating </b>
     end users from the websites they browse.
 
-# Notes
+## _Notes_
 
 -----------------------------------
 ### First, we must install SQUID SERVICE. <br/>
@@ -19,13 +19,13 @@
         - Filtering based on filetypes, download bandwidth, search patterns and much more.
 
 -----------------------------------
-#### SQUID SERVICES USED FOR WEB PAGE FILTERING. <br/>
+#### **Squid Services** Used For Web Page Filtering. <br/>
 -----------------------------------
 
     - Using ACL, we can restrict and allow based on source, dst, domain and much more.
 
 -----------------------------------
-#### MYSAR / SARG USED FOR REPORT SERVICES. <br/>
+#### **Mysar** / **Sarg** Used For Report Services. <br/>
 -----------------------------------
 
     - IP based and USER based.
