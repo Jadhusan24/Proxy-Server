@@ -30,11 +30,12 @@ E2 GUARDIAN and DANSGUARDIAN USED FOR WEB CONTENT FILTERING
 -----------------------------------
 ### To Verify
 -----------------------------------
-Debian Base OS <br/>
-apt-cache search <br/>
 
-Centos<br/>
-squid rpm -qi squid<br/>
+    Debian Base OS <br/>
+    apt-cache search <br/>
+
+    Centos<br/>
+    squid rpm -qi squid<br/>
 
 -----------------------------------
 ### Configuring On
