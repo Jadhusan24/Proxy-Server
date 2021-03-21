@@ -36,7 +36,8 @@
 
     Debian Base OS <br/>
     apt-cache search squid <br/>
-    apt-cache search E2Guardian
+    apt-cache search E2Guardian <br/>
+    
     Centos<br/>
     squid rpm -qi squid <br/>
     squid rpm -qi E2Guardian 
