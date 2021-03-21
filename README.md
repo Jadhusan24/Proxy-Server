@@ -40,5 +40,5 @@ squid rpm -qi squid<br/>
 ### Configuring On
 -----------------------------------
 
-Ubuntu Version 20.10 in Virtual Machine Workstation 16 Pro. <br/>
-Network Bridged from Host pc to Ubuntu VM.
+    Ubuntu Version 20.10 in Virtual Machine Workstation 16 Pro. <br/>
+    Network Bridged from Host pc to Ubuntu VM.
