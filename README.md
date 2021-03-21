@@ -46,3 +46,7 @@
 
     Ubuntu Version 20.10 in Virtual Machine Workstation 16 Pro. <br/>
     Network Bridged from Host pc to Ubuntu VM.
+
+## _THEROY_
+
+![WinVer](./1.JPG)
