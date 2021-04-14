@@ -5,7 +5,6 @@
     A proxy server acts as a gateway between you and the internet. It is an intermediary server separating </b>
     end users from the websites they browse.
 
-
 [![LinkedIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jadhusan24/)
 
 ## _Notes_
