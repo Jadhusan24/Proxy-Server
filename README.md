@@ -39,8 +39,8 @@
     Network Bridged from Host pc to Ubuntu VM.
 
 ## _THEROY_
- - [E2Guardian-Package](./document/E2Guardian-Package.pdf)
- - [Squid-Service](./document/Squid-Service.pdf)
+ - [E2Guardian-Package](./documents/E2Guardian-Package.pdf)
+ - [Squid-Service](./documents/Squid-Service.pdf)
 
 
  ![summary](./images/1.jpg)
