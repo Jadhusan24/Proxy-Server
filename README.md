@@ -17,11 +17,11 @@
 
 #### **Squid Services** Used For Web Page Filtering. <br/>
 
-    - Using ACL, we can restrict and allow based on source, dst, domain and much more.
+    Using ACL, we can restrict and allow based on source, dst, domain and much more.
 
 #### **Mysar** / **Sarg** Used For Report Services. <br/>
 
-    - IP based and USER based.
+    IP based and USER based.
 
 #### To Verify
 
