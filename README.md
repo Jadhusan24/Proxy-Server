@@ -43,6 +43,6 @@
  - [Squid-Service](./document/Squid-Service.pdf)
 
 
- - [WinVer](./images/1.jpg)
+ - ![summary](./images/1.jpg)
 
 
