@@ -1,7 +1,5 @@
 # Proxy-Server
-  Proxy Server Using Squid Service and E2 Guardian Package with MySar Report
-
-## [REFERENCES ?](https://en.wikipedia.org/wiki/Proxy_server)
+  Proxy Server Using Squid Service and E2 Guardian Package with MySar Report.
   A proxy server acts as a gateway between you and the internet. It is an intermediary server separating end users from the websites they browse.
 
 [![LinkedIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jadhusan24/)
@@ -41,7 +39,9 @@
     Network Bridged from Host pc to Ubuntu VM.
 
 ## _THEROY_
-
+ - [Physical Topology](./document/E2Guardian-Package.pdf)
+ - [Logical Topology](./document/Squid-Service.pdf)
+ - 
 ![WinVer](./1.jpg)
 
 
